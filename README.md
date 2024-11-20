@@ -1,5 +1,5 @@
 # ChessCrypt
-My implementation(s) of ChessCrypt, focusing on the core S-Box generation algorithm using chess piece movements for cryptographic strength.
+My implementation(s) of [ChessCrypt](https://doi.org/10.1038/s41598-024-77927-0), focusing on the core S-Box generation algorithm using chess piece movements for cryptographic strength.
 
 ## Python
 I've implemented ChessCrypt in Python with the following key features:
@@ -30,3 +30,7 @@ output = crypto.substitute(input_byte)
 ```
 
 ![image](https://github.com/user-attachments/assets/ca1165fe-d3c6-421f-82a0-e2c92ab7c46d)
+
+
+### Citation
+Banga, A., Iqbal, N., Ikram, A. et al. ChessCrypt: enhancing wireless communication security in smart cities through dynamically generated S-Box with chess-based nonlinearity. Sci Rep 14, 28205 (2024). [https://doi.org/10.1038/s41598-024-77927-0](https://doi.org/10.1038/s41598-024-77927-0)

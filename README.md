@@ -31,6 +31,9 @@ output = crypto.substitute(input_byte)
 
 ![image](https://github.com/user-attachments/assets/ca1165fe-d3c6-421f-82a0-e2c92ab7c46d)
 
+### In memory of my dad
+I've loved chess since the day my dad first introduced it to me. Unfortunately, we lost him in August, 2022 to complications from cancer. So I'm dedicating the initial release to him. \m/
+
 
 ### Citation
 Banga, A., Iqbal, N., Ikram, A. et al. ChessCrypt: enhancing wireless communication security in smart cities through dynamically generated S-Box with chess-based nonlinearity. Sci Rep 14, 28205 (2024). [https://doi.org/10.1038/s41598-024-77927-0](https://doi.org/10.1038/s41598-024-77927-0)

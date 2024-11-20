@@ -2,7 +2,6 @@
 My implementation(s) of ChessCrypt, focusing on the core S-Box generation algorithm using chess piece movements for cryptographic strength.
 
 ## Python
-
 I've implemented ChessCrypt in Python with the following key features:
 
 1. S-Box Generation using chess piece movements:
@@ -29,3 +28,5 @@ crypto = ChessCrypt()
 sbox = crypto.generate_sbox()
 output = crypto.substitute(input_byte)
 ```
+
+![image](https://github.com/user-attachments/assets/ca1165fe-d3c6-421f-82a0-e2c92ab7c46d)
